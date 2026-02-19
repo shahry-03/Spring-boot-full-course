@@ -1,3 +1,6 @@
 [submodule "core_spring"]
 	path = core_spring
 	url = https://github.com/shahry-03/core-spring
+[submodule "SpringBootPrerequisites"]
+	path = SpringBootPrerequisites
+	url = https://github.com/shahry-03/basic_concepts_required_for_springboot

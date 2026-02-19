@@ -2,7 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/SpringBootCourse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBootCourse_backup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBootPrerequisites" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/core_spring" vcs="Git" />
   </component>
 </project>
