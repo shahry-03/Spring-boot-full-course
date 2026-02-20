@@ -12,4 +12,4 @@
 	url = https://github.com/shahry-03/project-spring-crud
 [submodule "first"]
 	path = first
-	url = https://github.com/shahry-03/first-spring-app
+	url = https://github.com/shahry-03/first-springboot-app
