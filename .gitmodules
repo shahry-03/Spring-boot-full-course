@@ -4,3 +4,6 @@
 [submodule "SpringBootPrerequisites"]
 	path = SpringBootPrerequisites
 	url = https://github.com/shahry-03/basic_concepts_required_for_springboot
+[submodule "annotation_based_spring"]
+	path = annotation_based_spring
+	url = https://github.com/shahry-03/annotation_based_spring
